@@ -7,18 +7,18 @@ This project involves the creation of a modern and responsive website for Berimb
 ![Image Alt schedule](schedule.png)
 
 ## Objectives
-- **Enhanced Brand Presence**: A visually appealing design to boost brand awareness[^1^][1].
-- **Information Dissemination**: Detailed company and service information, along with security advice[^2^][2].
-- **User Engagement**: Easy communication channels for customer inquiries[^3^][3].
-- **Responsive Design**: Adaptive layout for various devices[^4^][4].
+- **Enhanced Brand Presence**: A visually appealing design to boost brand awareness.
+- **Information Dissemination**: Detailed company and service information, along with security advice.
+- **User Engagement**: Easy communication channels for customer inquiries.
+- **Responsive Design**: Adaptive layout for various devices.
 - **Accessibility**: Features for diverse user navigation and usage.
 
 ## Constraints
-- **Time**: Completion within the specified timeline[^5^][5].
-- **Budget**: Adherence to the development and maintenance budget[^6^][6].
-- **Technology Compatibility**: Wide browser and device compatibility[^7^][7].
-- **Compliance**: Industry standards and data privacy regulations[^8^][8].
-- **Scalability**: Accommodating future growth and updates[^9^][9].
+- **Time**: Completion within the specified timeline.
+- **Budget**: Adherence to the development and maintenance budget.
+- **Technology Compatibility**: Wide browser and device compatibility.
+- **Compliance**: Industry standards and data privacy regulations.
+- **Scalability**: Accommodating future growth and updates.
 
 ## GUI Design
 The website will feature a landing page with sections for services, plans, contact form, and footer. Alternative design options and user feedback will be considered to enhance user experience.
@@ -27,18 +27,18 @@ The website will feature a landing page with sections for services, plans, conta
 ![Image Alt ui](ui.jpg)
 
 ## Technical Documentation
-- **Product Name**: Berimbolo Security website[^10^][10]
-- **Version**: 1.0.0[^11^][11]
+- **Product Name**: Berimbolo Security website.
+- **Version**: 1.0.0.
 
 
 ## Technologies Used
-- **HTML**: Structure of web content[^12^][12].
-- **CSS**: Styling and formatting of HTML elements[^13^][13].
-- **JavaScript**: Interactivity and dynamic behavior[^14^][14].
-- **Bootstrap**: Responsive and mobile-first design[^15^][15].
-- **Sass**: CSS preprocessor for extended capabilities[^16^][16].
-- **Wow Animation Library**: Customizable animations[^17^][17].
+- **HTML**: Structure of web content.
+- **CSS**: Styling and formatting of HTML elements.
+- **JavaScript**: Interactivity and dynamic behavior.
+- **Bootstrap**: Responsive and mobile-first design.
+- **Sass**: CSS preprocessor for extended capabilities.
+- **Wow Animation Library**: Customizable animations.
 
 ## Conclusion
-The design document reflects a user-centric approach to meet user needs through usability, accessibility, functionality, aesthetics, adaptability, and iterative feedback, ensuring an exceptional user experience[^18^][18].
+The design document reflects a user-centric approach to meet user needs through usability, accessibility, functionality, aesthetics, adaptability, and iterative feedback, ensuring an exceptional user experience.
 
