@@ -4,7 +4,7 @@
 This project involves the creation of a modern and responsive website for Berimbolo Security, aimed at enhancing brand presence, disseminating information, engaging users, and ensuring accessibility.
 
 ## application schedule
-![Image Alt schedule](schedule.jpg)
+![Image Alt schedule](schedule.png)
 
 ## Objectives
 - **Enhanced Brand Presence**: A visually appealing design to boost brand awareness[^1^][1].
